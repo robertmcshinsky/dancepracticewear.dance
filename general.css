@@ -4,19 +4,16 @@ body {
   font-size: 18px;
 }
 h1 {
-  font-size: 2em;
-  text-align: center;
+  font-size: 2em; text-align: center;
 }
 h2 {
-  font-size: 1.6em;
-  text-align: center;
+  font-size: 1.6em; text-align: center;
 }
 h3 {
   font-size: .6em;
 }
 a {
-text-decoration: none;
-font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+text-decoration: none; font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 img {
   display: block;
@@ -25,4 +22,3 @@ img {
   margin-right: auto;
   width: 10%;
 }
-
